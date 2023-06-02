@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Test GitHub + CloudFlare",
     "description": "",
-    "home_page_url": "https://rgglowacki.github.io/Publi-test-2",
-    "feed_url": "https://rgglowacki.github.io/Publi-test-2/feed.json",
+    "home_page_url": "https://publi-test-2.pages.dev",
+    "feed_url": "https://publi-test-2.pages.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "Robert"
     },
     "items": [
         {
-            "id": "https://rgglowacki.github.io/Publi-test-2/test-posta-2.html",
-            "url": "https://rgglowacki.github.io/Publi-test-2/test-posta-2.html",
+            "id": "https://publi-test-2.pages.dev/test-posta-2.html",
+            "url": "https://publi-test-2.pages.dev/test-posta-2.html",
             "title": "Test posta 2",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://rgglowacki.github.io/Publi-test-2/media/posts/2/audacity_cover.jpg\" alt=\"\" width=\"1200\" height=\"675\" sizes=\"100vw\" srcset=\"https://rgglowacki.github.io/Publi-test-2/media/posts/2/responsive/audacity_cover-xs.jpg 300w ,https://rgglowacki.github.io/Publi-test-2/media/posts/2/responsive/audacity_cover-sm.jpg 480w ,https://rgglowacki.github.io/Publi-test-2/media/posts/2/responsive/audacity_cover-md.jpg 768w ,https://rgglowacki.github.io/Publi-test-2/media/posts/2/responsive/audacity_cover-lg.jpg 1024w ,https://rgglowacki.github.io/Publi-test-2/media/posts/2/responsive/audacity_cover-xl.jpg 1360w ,https://rgglowacki.github.io/Publi-test-2/media/posts/2/responsive/audacity_cover-2xl.jpg 1600w\"></figure>",
-            "image": "https://rgglowacki.github.io/Publi-test-2/media/posts/2/311693840_5538270052955598_5673650186593143932_n.png",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://publi-test-2.pages.dev/media/posts/2/audacity_cover.jpg\" alt=\"\" width=\"1200\" height=\"675\" sizes=\"100vw\" srcset=\"https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-xs.jpg 300w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-sm.jpg 480w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-md.jpg 768w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-lg.jpg 1024w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-xl.jpg 1360w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-2xl.jpg 1600w\"></figure>",
+            "image": "https://publi-test-2.pages.dev/media/posts/2/311693840_5538270052955598_5673650186593143932_n.png",
             "author": {
                 "name": "Robert"
             },
@@ -24,12 +24,12 @@
             "date_modified": "2023-06-02T10:46:27+02:00"
         },
         {
-            "id": "https://rgglowacki.github.io/Publi-test-2/test-posta-jeden.html",
-            "url": "https://rgglowacki.github.io/Publi-test-2/test-posta-jeden.html",
+            "id": "https://publi-test-2.pages.dev/test-posta-jeden.html",
+            "url": "https://publi-test-2.pages.dev/test-posta-jeden.html",
             "title": "Test posta jeden",
             "summary": "A tutaj jakiś post walniemy",
             "content_html": "\n  <p>\n    A tutaj jakiś post walniemy\n  </p>",
-            "image": "https://rgglowacki.github.io/Publi-test-2/media/posts/1/robert-glowacki-300x300.png",
+            "image": "https://publi-test-2.pages.dev/media/posts/1/robert-glowacki-300x300.png",
             "author": {
                 "name": "Robert"
             },

@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://rgglowacki.github.io/Publi-test-2/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://publi-test-2.pages.dev/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://rgglowacki.github.io/Publi-test-2/</loc>
+<loc>https://publi-test-2.pages.dev/</loc>
 </url>
 <url>
-<loc>https://rgglowacki.github.io/Publi-test-2/test-posta-2.html</loc>
+<loc>https://publi-test-2.pages.dev/test-posta-2.html</loc>
 <lastmod>2023-06-02T10:46:27+02:00</lastmod>
 <image:image>
-<image:loc>https://rgglowacki.github.io/Publi-test-2/media/posts/2/311693840_5538270052955598_5673650186593143932_n.png</image:loc>
+<image:loc>https://publi-test-2.pages.dev/media/posts/2/311693840_5538270052955598_5673650186593143932_n.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://rgglowacki.github.io/Publi-test-2/media/posts/2/audacity_cover.jpg</image:loc>
+<image:loc>https://publi-test-2.pages.dev/media/posts/2/audacity_cover.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://rgglowacki.github.io/Publi-test-2/test-posta-jeden.html</loc>
+<loc>https://publi-test-2.pages.dev/test-posta-jeden.html</loc>
 <lastmod>2023-06-02T10:45:18+02:00</lastmod>
 <image:image>
-<image:loc>https://rgglowacki.github.io/Publi-test-2/media/posts/1/robert-glowacki-300x300.png</image:loc>
+<image:loc>https://publi-test-2.pages.dev/media/posts/1/robert-glowacki-300x300.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Test GitHub + CloudFlare</title>
-    <link href="https://rgglowacki.github.io/Publi-test-2/feed.xml" rel="self" />
-    <link href="https://rgglowacki.github.io/Publi-test-2" />
+    <link href="https://publi-test-2.pages.dev/feed.xml" rel="self" />
+    <link href="https://publi-test-2.pages.dev" />
     <updated>2023-06-02T10:46:27+02:00</updated>
     <author>
         <name>Robert</name>
     </author>
-    <id>https://rgglowacki.github.io/Publi-test-2</id>
+    <id>https://publi-test-2.pages.dev</id>
 
     <entry>
         <title>Test posta 2</title>
         <author>
             <name>Robert</name>
         </author>
-        <link href="https://rgglowacki.github.io/Publi-test-2/test-posta-2.html"/>
-        <id>https://rgglowacki.github.io/Publi-test-2/test-posta-2.html</id>
-        <media:content url="https://rgglowacki.github.io/Publi-test-2/media/posts/2/311693840_5538270052955598_5673650186593143932_n.png" medium="image" />
+        <link href="https://publi-test-2.pages.dev/test-posta-2.html"/>
+        <id>https://publi-test-2.pages.dev/test-posta-2.html</id>
+        <media:content url="https://publi-test-2.pages.dev/media/posts/2/311693840_5538270052955598_5673650186593143932_n.png" medium="image" />
 
         <updated>2023-06-02T10:46:27+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://rgglowacki.github.io/Publi-test-2/media/posts/2/311693840_5538270052955598_5673650186593143932_n.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://rgglowacki.github.io/Publi-test-2/media/posts/2/audacity_cover.jpg" alt="" width="1200" height="675" sizes="100vw" srcset="https://rgglowacki.github.io/Publi-test-2/media/posts/2/responsive/audacity_cover-xs.jpg 300w ,https://rgglowacki.github.io/Publi-test-2/media/posts/2/responsive/audacity_cover-sm.jpg 480w ,https://rgglowacki.github.io/Publi-test-2/media/posts/2/responsive/audacity_cover-md.jpg 768w ,https://rgglowacki.github.io/Publi-test-2/media/posts/2/responsive/audacity_cover-lg.jpg 1024w ,https://rgglowacki.github.io/Publi-test-2/media/posts/2/responsive/audacity_cover-xl.jpg 1360w ,https://rgglowacki.github.io/Publi-test-2/media/posts/2/responsive/audacity_cover-2xl.jpg 1600w"></figure>
+                    <p><img src="https://publi-test-2.pages.dev/media/posts/2/311693840_5538270052955598_5673650186593143932_n.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://publi-test-2.pages.dev/media/posts/2/audacity_cover.jpg" alt="" width="1200" height="675" sizes="100vw" srcset="https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-xs.jpg 300w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-sm.jpg 480w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-md.jpg 768w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-lg.jpg 1024w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-xl.jpg 1360w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
@@ -32,20 +32,20 @@
         <author>
             <name>Robert</name>
         </author>
-        <link href="https://rgglowacki.github.io/Publi-test-2/test-posta-jeden.html"/>
-        <id>https://rgglowacki.github.io/Publi-test-2/test-posta-jeden.html</id>
-        <media:content url="https://rgglowacki.github.io/Publi-test-2/media/posts/1/robert-glowacki-300x300.png" medium="image" />
+        <link href="https://publi-test-2.pages.dev/test-posta-jeden.html"/>
+        <id>https://publi-test-2.pages.dev/test-posta-jeden.html</id>
+        <media:content url="https://publi-test-2.pages.dev/media/posts/1/robert-glowacki-300x300.png" medium="image" />
 
         <updated>2023-06-02T10:45:18+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rgglowacki.github.io/Publi-test-2/media/posts/1/robert-glowacki-300x300.png" alt="" />
+                        <img src="https://publi-test-2.pages.dev/media/posts/1/robert-glowacki-300x300.png" alt="" />
                     A tutaj jakiś post walniemy
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://rgglowacki.github.io/Publi-test-2/media/posts/1/robert-glowacki-300x300.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://publi-test-2.pages.dev/media/posts/1/robert-glowacki-300x300.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     A tutaj jakiś post walniemy
