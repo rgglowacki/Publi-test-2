@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rgglowacki.github.io/Publi-test-2/sitemap.xml
