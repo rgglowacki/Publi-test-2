@@ -23,7 +23,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://publi-test-2.pages.dev/media/posts/2/311693840_5538270052955598_5673650186593143932_n.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://publi-test-2.pages.dev/media/posts/2/audacity_cover.jpg" alt="" width="1200" height="675" sizes="100vw" srcset="https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-xs.jpg 300w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-sm.jpg 480w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-md.jpg 768w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-lg.jpg 1024w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-xl.jpg 1360w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-2xl.jpg 1600w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://publi-test-2.pages.dev/media/posts/2/audacity_cover.jpg" alt="" width="1200" height="675" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-xs.jpg 384w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-sm.jpg 600w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-md.jpg 768w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-lg.jpg 1200w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
