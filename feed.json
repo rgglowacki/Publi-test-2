@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Test GitHub + CloudFlare",
     "description": "",
-    "home_page_url": "https://publi-test-2.pages.dev",
-    "feed_url": "https://publi-test-2.pages.dev/feed.json",
+    "home_page_url": "https://publii-test.nexbot.ovh",
+    "feed_url": "https://publii-test.nexbot.ovh/feed.json",
     "user_comment": "",
     "author": {
         "name": "Robert"
     },
     "items": [
         {
-            "id": "https://publi-test-2.pages.dev/test-posta-2/",
-            "url": "https://publi-test-2.pages.dev/test-posta-2/",
+            "id": "https://publii-test.nexbot.ovh/test-posta-2/",
+            "url": "https://publii-test.nexbot.ovh/test-posta-2/",
             "title": "Test posta 2",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://publi-test-2.pages.dev/media/posts/2/audacity_cover.jpg\" alt=\"\" width=\"1200\" height=\"675\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-xs.webp 384w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-sm.webp 600w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-md.webp 768w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-lg.webp 1200w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-xl.webp 1600w\"></figure>",
-            "image": "https://publi-test-2.pages.dev/media/posts/2/311693840_5538270052955598_5673650186593143932_n.png",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://publii-test.nexbot.ovh/media/posts/2/audacity_cover.jpg\" alt=\"\" width=\"1200\" height=\"675\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://publii-test.nexbot.ovh/media/posts/2/responsive/audacity_cover-xs.webp 384w ,https://publii-test.nexbot.ovh/media/posts/2/responsive/audacity_cover-sm.webp 600w ,https://publii-test.nexbot.ovh/media/posts/2/responsive/audacity_cover-md.webp 768w ,https://publii-test.nexbot.ovh/media/posts/2/responsive/audacity_cover-lg.webp 1200w ,https://publii-test.nexbot.ovh/media/posts/2/responsive/audacity_cover-xl.webp 1600w\"></figure>",
+            "image": "https://publii-test.nexbot.ovh/media/posts/2/311693840_5538270052955598_5673650186593143932_n.png",
             "author": {
                 "name": "Robert"
             },
@@ -24,12 +24,12 @@
             "date_modified": "2023-06-02T10:46:27+02:00"
         },
         {
-            "id": "https://publi-test-2.pages.dev/test-posta-jeden/",
-            "url": "https://publi-test-2.pages.dev/test-posta-jeden/",
+            "id": "https://publii-test.nexbot.ovh/test-posta-jeden/",
+            "url": "https://publii-test.nexbot.ovh/test-posta-jeden/",
             "title": "Test posta jeden",
             "summary": "A tutaj jakiś post walniemy",
             "content_html": "\n  <p>\n    A tutaj jakiś post walniemy\n  </p>",
-            "image": "https://publi-test-2.pages.dev/media/posts/1/robert-glowacki-300x300.png",
+            "image": "https://publii-test.nexbot.ovh/media/posts/1/robert-glowacki-300x300.png",
             "author": {
                 "name": "Robert"
             },

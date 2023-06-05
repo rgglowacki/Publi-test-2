@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Test GitHub + CloudFlare</title>
-    <link href="https://publi-test-2.pages.dev/feed.xml" rel="self" />
-    <link href="https://publi-test-2.pages.dev" />
+    <link href="https://publii-test.nexbot.ovh/feed.xml" rel="self" />
+    <link href="https://publii-test.nexbot.ovh" />
     <updated>2023-06-02T10:46:27+02:00</updated>
     <author>
         <name>Robert</name>
     </author>
-    <id>https://publi-test-2.pages.dev</id>
+    <id>https://publii-test.nexbot.ovh</id>
 
     <entry>
         <title>Test posta 2</title>
         <author>
             <name>Robert</name>
         </author>
-        <link href="https://publi-test-2.pages.dev/test-posta-2/"/>
-        <id>https://publi-test-2.pages.dev/test-posta-2/</id>
-        <media:content url="https://publi-test-2.pages.dev/media/posts/2/311693840_5538270052955598_5673650186593143932_n.png" medium="image" />
+        <link href="https://publii-test.nexbot.ovh/test-posta-2/"/>
+        <id>https://publii-test.nexbot.ovh/test-posta-2/</id>
+        <media:content url="https://publii-test.nexbot.ovh/media/posts/2/311693840_5538270052955598_5673650186593143932_n.png" medium="image" />
 
         <updated>2023-06-02T10:46:27+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://publi-test-2.pages.dev/media/posts/2/311693840_5538270052955598_5673650186593143932_n.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://publi-test-2.pages.dev/media/posts/2/audacity_cover.jpg" alt="" width="1200" height="675" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-xs.webp 384w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-sm.webp 600w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-md.webp 768w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-lg.webp 1200w ,https://publi-test-2.pages.dev/media/posts/2/responsive/audacity_cover-xl.webp 1600w"></figure>
+                    <p><img src="https://publii-test.nexbot.ovh/media/posts/2/311693840_5538270052955598_5673650186593143932_n.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://publii-test.nexbot.ovh/media/posts/2/audacity_cover.jpg" alt="" width="1200" height="675" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://publii-test.nexbot.ovh/media/posts/2/responsive/audacity_cover-xs.webp 384w ,https://publii-test.nexbot.ovh/media/posts/2/responsive/audacity_cover-sm.webp 600w ,https://publii-test.nexbot.ovh/media/posts/2/responsive/audacity_cover-md.webp 768w ,https://publii-test.nexbot.ovh/media/posts/2/responsive/audacity_cover-lg.webp 1200w ,https://publii-test.nexbot.ovh/media/posts/2/responsive/audacity_cover-xl.webp 1600w"></figure>
             ]]>
         </content>
     </entry>
@@ -32,20 +32,20 @@
         <author>
             <name>Robert</name>
         </author>
-        <link href="https://publi-test-2.pages.dev/test-posta-jeden/"/>
-        <id>https://publi-test-2.pages.dev/test-posta-jeden/</id>
-        <media:content url="https://publi-test-2.pages.dev/media/posts/1/robert-glowacki-300x300.png" medium="image" />
+        <link href="https://publii-test.nexbot.ovh/test-posta-jeden/"/>
+        <id>https://publii-test.nexbot.ovh/test-posta-jeden/</id>
+        <media:content url="https://publii-test.nexbot.ovh/media/posts/1/robert-glowacki-300x300.png" medium="image" />
 
         <updated>2023-06-02T10:45:18+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://publi-test-2.pages.dev/media/posts/1/robert-glowacki-300x300.png" alt="" />
+                        <img src="https://publii-test.nexbot.ovh/media/posts/1/robert-glowacki-300x300.png" alt="" />
                     A tutaj jakiś post walniemy
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://publi-test-2.pages.dev/media/posts/1/robert-glowacki-300x300.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://publii-test.nexbot.ovh/media/posts/1/robert-glowacki-300x300.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     A tutaj jakiś post walniemy
